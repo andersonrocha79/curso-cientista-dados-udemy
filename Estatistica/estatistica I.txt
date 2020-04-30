@@ -1,0 +1,35 @@
+ciência que usa de teorias em experimentos e observações
+para o estudo destes
+----------------------------------------------------------------------
+descritiva:	organizar, demonstrar e resumir dados
+probabilidade:	analisar situações sujeitas ao acaso
+inferência:	obter respostas sobre um fenômeno com dados representativos
+
+----------------------------------------------------------------------
+variáveis
+----------------------------------------------------------------------
+quantitativa - numéricas
+   contínua: valores reais (0,9 / 0,5)
+   discreta: números fixos, inteiros (1 / 2 / 3 / 4)
+
+qualitativas - categóricas
+   nominais: categorias sem hierarquia (mg, sp, rj)
+   ordinais: categorias com hierarquia (alto, médio, baixo)
+
+----------------------------------------------------------------------
+Amostra
+----------------------------------------------------------------------
+Parte de uma população selecionada usando alguma tecnica que de chances
+iguais a todos os elementos da população de serem selecionados.
+
+População:	Alvo do estudo (na votação seriam todos os eleitores da cidade)
+Amostra:	Subconjunto da população (subconjunto de eleitores)
+Censo:		Pesquisa com toda a população (todos os eleitores)
+
+----------------------------------------------------------------------
+Enviesamento
+----------------------------------------------------------------------
+Amostra enviesada indica que a amostra não representa corretamente a população
+subestima ou superestima o parâmetro da população
+causas:		pesquisa de pessoas próximas, pela internet, sem uso de mecanismo de seleção aleatório
+

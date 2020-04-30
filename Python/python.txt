@@ -1,0 +1,89 @@
+- o python é case sensitive
+- a identação define os blocos de código  (espaços ou tab)
+
+----------------------------------------------------------------
+variváveis - tipagem dinâmica
+----------------------------------------------------------------
+x = 1		(inteiro)
+y = 3.13	(float)
+z = "python"	(string)
+w = True	(lógica)
+
+----------------------------------------------------------------
+principais operadores
+----------------------------------------------------------------
++  -  /  *
+
+----------------------------------------------------------------
+função para exibir valores no console
+----------------------------------------------------------------
+print("teste")
+print(x)
+print("teste", x, y, x)
+
+----------------------------------------------------------------
+para saber o tipo da variável
+----------------------------------------------------------------
+x = 10
+type(x)
+
+----------------------------------------------------------------
+entrada de valores (a variável retornada sempre é string)
+----------------------------------------------------------------
+x = input("informe o valor")
+
+----------------------------------------------------------------
+conversão de valores
+----------------------------------------------------------------
+x = int(z)
+w = str(m)
+t = float(l)
+
+
+----------------------------------------------------------------comentários
+----------------------------------------------------------------
+# este texto e um comentário
+''' comentário em multiplas linhas
+    teste teste teste teste '''
+
+
+----------------------------------------------------------------
+if / else / elif
+----------------------------------------------------------------
+
+if avaliacao-logica:
+   # executa se for verdadeiro
+   # executa se for verdadeiro
+else:
+   # executa se for falso
+   # executa se for falso
+
+if nota >= 7 and frequencia > 70:
+   print("aprovado")
+else:
+   print("reprovado")
+
+if nota <= 4:
+   print("reprovado")
+elif nota > 4 and nota <= 6:
+   print("exame")
+else:
+   print("aprovado")
+
+----------------------------------------------------------------
+operadores de comparação
+----------------------------------------------------------------
+> 
+<
+<=
+>=
+==
+!=
+
+----------------------------------------------------------------
+operadores lógicos
+----------------------------------------------------------------
+and
+or
+not
+
